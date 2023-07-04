@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bankacılık.sln", "FreeTime\Bankacılık.sln.csproj", "{C5791F41-005F-42EC-BCD5-4F36ECF707F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taksimetre", "Taksimetre\Taksimetre.csproj", "{BCA72C21-020A-4FCB-8640-BAF79938C405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5791F41-005F-42EC-BCD5-4F36ECF707F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5791F41-005F-42EC-BCD5-4F36ECF707F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5791F41-005F-42EC-BCD5-4F36ECF707F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5791F41-005F-42EC-BCD5-4F36ECF707F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA72C21-020A-4FCB-8640-BAF79938C405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA72C21-020A-4FCB-8640-BAF79938C405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA72C21-020A-4FCB-8640-BAF79938C405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA72C21-020A-4FCB-8640-BAF79938C405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A13AAE8C-EAFD-46D5-87E8-3057CC495FA6}
+	EndGlobalSection
+EndGlobal
