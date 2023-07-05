@@ -45,7 +45,7 @@ else
                 double toplamUcret = sabitUcret + (kmislem * kmBasiUcret);
                 Console.WriteLine("\nÖdenecek Toplam Tutar = " + toplamUcret + " TL");
                 Console.Write("\nBankada Ne Kadar Para Bulunmakata = ");
-                double bankaPara1 = Int32.Parse(Console.ReadLine());
+                var bankaPara1 = Int32.Parse(Console.ReadLine());
                 if (bankaPara1 > 0)
                 {
                     if (bankaPara1 >= toplamUcret)
